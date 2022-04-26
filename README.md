@@ -11,7 +11,7 @@ npm install
 2. Run Server
 
 ```bash
-node start
+npm start
 ```
 
 You can browse the apis at <http://localhost:5000/api>
